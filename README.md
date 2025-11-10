@@ -60,4 +60,4 @@ It helps business leaders **track KPIs**, identify **growth opportunities**, and
 ---
 
 ## 📷 Dashboard Preview
-![E-Commerce Dashboard](dbb54cfd-da13-4753-9d40-dc5761de580b.png)
+https://github.com/chavdajaymeen-create/Jaymeen-Chavda-Dashboards/blob/main/Ecommerce%20Dashboard.jpeg
